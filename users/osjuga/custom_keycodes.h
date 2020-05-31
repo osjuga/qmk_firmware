@@ -1,7 +1,6 @@
 #pragma once 
 
 #define QWERTY DF(_QWERTY)
-#define COLMAK DF(_COLMAK)
 #define GAME DF(_GAME)
 
 #define LAYER1 MO(_LAYER1)
