@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#include "osjuga.h"
 
 enum keyboard_layers {
   _BL = 0, // Base Layer
