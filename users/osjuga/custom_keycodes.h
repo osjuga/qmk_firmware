@@ -5,6 +5,7 @@
 
 #define LAYER1 MO(_LAYER1)
 #define LAYER2 MO(_LAYER2)
+#define LAYER3 MO(_LAYER3)
 
 #define LAYESC1 LT(_LAYER1, KC_ESC)
 
@@ -20,4 +21,5 @@ enum osjuga_layers {
     _GAME,
     _LAYER1,
     _LAYER2,
+    _LAYER3,
 };
